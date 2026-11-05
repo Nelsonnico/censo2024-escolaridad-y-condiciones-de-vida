@@ -1,0 +1,11 @@
+# Datos: son pesados y se descargan desde el INE (ver README)
+data/raw/
+data/processed/
+data/external/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
